@@ -1,0 +1,99 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "MBA/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "MBA/Courses/ITC/Lectures",
+      "template": "MBA/Templates/Course Lecture Template.md"
+    },
+    {
+      "folder": "MBA/Courses/ITC/Assignments",
+      "template": "MBA/Templates/Assignment Template.md"
+    },
+    {
+      "folder": "MBA/Courses/FRA/Lectures",
+      "template": "MBA/Templates/Course Lecture Template.md"
+    },
+    {
+      "folder": "MBA/Courses/FRA/Assignments",
+      "template": "MBA/Templates/Assignment Template.md"
+    },
+    {
+      "folder": "MBA/Courses/CCTM/Assignments",
+      "template": "MBA/Templates/Assignment Template.md"
+    },
+    {
+      "folder": "MBA/Courses/CCTM/Lectures",
+      "template": "MBA/Templates/Course Lecture Template.md"
+    },
+    {
+      "folder": "MBA/Courses/QAM/Assignments",
+      "template": "MBA/Templates/Assignment Template.md"
+    },
+    {
+      "folder": "MBA/Courses/QAM/Lectures",
+      "template": "MBA/Templates/Course Lecture Template.md"
+    },
+    {
+      "folder": "MBA/Courses/BIO/Assignments",
+      "template": "MBA/Templates/Assignment Template.md"
+    },
+    {
+      "folder": "MBA/Courses/BIO/Lectures",
+      "template": "MBA/Templates/Course Lecture Template.md"
+    },
+    {
+      "folder": "MBA/Courses/ME/Assignments",
+      "template": "MBA/Templates/Assignment Template.md"
+    },
+    {
+      "folder": "MBA/Courses/ME/Lectures",
+      "template": "MBA/Templates/Course Lecture Template.md"
+    },
+    {
+      "folder": "MBA/Courses/LAM/Assignments",
+      "template": "MBA/Templates/Assignment Template.md"
+    },
+    {
+      "folder": "MBA/Courses/LAM/Lectures",
+      "template": "MBA/Templates/Course Lecture Template.md"
+    },
+    {
+      "folder": "MBA/Courses/MM/Assignments",
+      "template": "MBA/Templates/Assignment Template.md"
+    },
+    {
+      "folder": "MBA/Courses/MM/Lectures",
+      "template": "MBA/Templates/Course Lecture Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "MBA/Templates/Course Lecture Template.md",
+    "MBA/Templates/Assignment Template.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

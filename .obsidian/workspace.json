@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "505d85bdc84d5c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c352b4dba65d4df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e8dcc1621b79e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MBA/Courses/FRA/Assignments/End Term Annual Reports/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a098cc5d69b034d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "54505530349870a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a68826452d89245",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af0622ff803dd067",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4b0c1b58b8d941df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5
+  },
+  "right": {
+    "id": "a6e7ab6dbd1bf111",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fc221d9ed5d97db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "064bdafa315b67e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MBA/Courses/ITC/Assignments/ITC ASSIGNMENT 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ITC ASSIGNMENT 1"
+            }
+          },
+          {
+            "id": "b3b87b9972737e07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fd85245d89d6ac83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5089cd247eec501",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ca1974cdc64f8175",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "spreadsheets:New Spreadsheet": false
+    }
+  },
+  "active": "b0e8dcc1621b79e7",
+  "lastOpenFiles": [
+    "MBA/Live Project/Finaltics/{E432C5F5-C569-4BFE-B066-E290CF6CE0E2}.png.~tmp",
+    "MBA/Live Project/Finaltics/{E432C5F5-C569-4BFE-B066-E290CF6CE0E2}.png",
+    "MBA/Live Project/Finaltics/~WRL0001.tmp",
+    "MBA/Live Project/Finaltics/~WRD0000.tmp",
+    "MBA/Live Project/Finaltics/~$vestment Banking Project 2.docx",
+    "MBA/Live Project/Finaltics/Investment Banking Project 2.docx",
+    "MBA/Live Project/Finaltics/New Microsoft Word Document.docx",
+    "MBA/Live Project/Finaltics/Investment Banking Project 2 Document.pdf",
+    "MBA/Live Project/Finaltics/Unconfirmed 746403.crdownload",
+    "MBA/Courses/FRA/Assignments/B9C89400",
+    "MBA/Courses/FRA/Assignments/66338400",
+    "MBA/Courses/FRA/Assignments/~$FRA Session 18 (solution) (1) (1).xlsx",
+    "MBA/Courses/FRA/Assignments/End Term Annual Reports/Untitled.md",
+    "MBA/Courses/FRA/Assignments/End Term Annual Reports/What to say.md",
+    "MBA/Courses/CCTM/Lectures/Session 13.md",
+    "MBA/Courses/FRA/Lectures/WhatsApp Image 2025-07-14 at 18.18.30_4e817f5e.jpg",
+    "MBA/Courses/FRA/Lectures/WhatsApp Image 2025-07-14 at 18.18.49_3541756f.jpg",
+    "MBA/Courses/FRA/Lectures/WhatsApp Image 2025-07-14 at 18.18.41_fdb99f36.jpg",
+    "MBA/Courses/FRA/Assignments/End Term Project.md",
+    "MBA/Courses/CCTM/Assignments/End Term Project/SolNova Family.png",
+    "MBA/Courses/CCTM/Assignments/End Term Project/Smart App.png",
+    "MBA/Live Project/Finaltics/Profile and Start Up.md",
+    "MBA/Courses/CCTM/Lectures/CCTM Session 5.md",
+    "Formula to QUIZ.md",
+    "MBA/Courses/QAM/Lectures/QAM Session 4.md",
+    "MBA/Courses/FRA/Lectures/FRA Session 3.md",
+    "Thumbs-Up Video.md",
+    "MBA/Courses/FRA/Assignments/FRA Assignment 1.md",
+    "MBA/Templates/Assignment Template.md",
+    "MBA/Templates/Course Lecture Template.md",
+    "MBA/Courses/QAM/Lectures/QAM Session 1.md",
+    "MBA/Courses/FRA/Lectures/FRA Session 1.md",
+    "MBA/Courses/ITC/Assignments/ITC Assignment 1.md",
+    "MBA/Courses/ITC/Lectures/ITC Session 1.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "MBA/ITC Session 1.md",
+    "2025-07-07.md",
+    "Untitled 1.md",
+    "Courses/ITC/Lectures/ITC Lecture 1.md",
+    "Welcome.md"
+  ]
+}
