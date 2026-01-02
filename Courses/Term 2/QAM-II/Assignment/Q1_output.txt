@@ -1,0 +1,25 @@
+QUESTION 1 – DESCRIPTIVE STATISTICS AND COUNTS
+
+Column names:
+ [1] "Movie"                "Opening Gross"        "Total U.S. Gross"    
+ [4] "Total Non-U.S. Gross" "Budget"               "Opening Theatres"    
+ [7] "Known Story"          "Sequel"               "Origin_United States"
+[10] "Genre"                "Summer"               "Holiday"             
+[13] "Christmas"            "MPAA"                 "MPAA_D"              
+[16] "Critics´ Opinion"     "Oscar Nominations"    "Oscars Won"          
+[19] "COMEDY_DUMMY"        
+
+Opening Gross (Min, Mean, Max):
+[1]  4120497 17468466 68033544
+
+Total U.S. Gross (Min, Mean, Max):
+[1]  13090630  59620651 198000317
+
+Total Non-U.S. Gross (Min, Mean, Max):
+[1]         0  59560983 456235122
+
+Opening Theatres (Min, Mean, Max):
+[1]  852.00 2766.28 3964.00
+
+Number of comedies (COMEDY_DUMMY = 1):  23 
+Number of R-rated movies (MPAA = 'R'):  15 

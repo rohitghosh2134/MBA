@@ -1,0 +1,9 @@
+This project provided a practical understanding of how public policy functions—or fails—at the implementation level. While studying the stray dog issue at IIM Sirmaur, it became evident that policy problems are rarely caused by the absence of rules. Instead, they emerge from **conflicting interpretations, ethical disagreements, and weak enforcement mechanisms**.
+
+The case highlighted the limitations of rule-based governance. Although a “no pets on campus” policy exists, it does not account for human emotions, ethical concerns, or behavioural realities. Well-intentioned actions such as feeding stray dogs, while morally driven, demonstrated how individual empathy can unintentionally undermine collective safety.
+
+A key learning from this project was the concept of **uninsured risk**. Victims of dog bites bear the physical, emotional, and financial burden, despite the administration’s role as the manager of collective space. This exposed a gap between the theoretical role of the state (or institution) and its practical functioning.
+
+The project also reinforced the importance of **behavioural public policy**. Coercive enforcement alone is insufficient in resolving sensitive issues involving ethics and safety. Nudges, design thinking, and stakeholder engagement offer more sustainable solutions than blanket bans.
+
+Overall, this assignment shifted our perspective from viewing policy as static rules to understanding it as a **dynamic process shaped by human behaviour, institutional capacity, and ethical trade-offs**. It demonstrated that effective public policy requires not only sound design but also empathetic implementation and accountability at the ground level. 

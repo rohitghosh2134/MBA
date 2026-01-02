@@ -1,0 +1,18 @@
+QUESTION 4 – R-RATED VS OTHER MOVIES
+
+Mean Total U.S. Gross (R-rated):  53330312 
+Mean Total U.S. Gross (Non-R-rated):  61193236 
+
+Two-sample t-test (R-rated vs Non-R-rated):
+
+	Welch Two Sample t-test
+
+data:  r_rated_gross and non_r_rated_gross
+t = -0.85686, df = 31.986, p-value = 0.3979
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -26555104  10829257
+sample estimates:
+mean of x mean of y 
+ 53330312  61193236 
+

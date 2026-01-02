@@ -1,0 +1,68 @@
+QUESTION 8 – EFFECT OF CRITICS' OPINION
+
+Initial regression model (all post-opening factors):
+
+Call:
+lm(formula = formula_initial, data = movies)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-23575046 -11751889  -2848326   7094965  69258552 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        -3.535e+07  1.280e+07  -2.761 0.007534 ** 
+Budget              2.492e-01  1.046e-01   2.382 0.020240 *  
+COMEDY_DUMMY        5.734e+06  4.996e+06   1.148 0.255482    
+MPAA_D             -9.922e+06  5.798e+06  -1.711 0.091930 .  
+Sequel             -4.040e+06  7.647e+06  -0.528 0.599079    
+`Known Story`      -2.606e+06  4.506e+06  -0.578 0.565049    
+`Opening Theatres`  1.342e+03  4.014e+03   0.334 0.739330    
+Summer             -2.643e+06  4.997e+06  -0.529 0.598678    
+Holiday            -1.345e+06  7.691e+06  -0.175 0.861725    
+Christmas           4.094e+06  7.712e+06   0.531 0.597327    
+`Opening Gross`     2.746e+00  2.769e-01   9.914 1.75e-14 ***
+`Critics´ Opinion`  6.546e+05  1.609e+05   4.069 0.000134 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 17570000 on 63 degrees of freedom
+Multiple R-squared:  0.8381,	Adjusted R-squared:  0.8098 
+F-statistic: 29.64 on 11 and 63 DF,  p-value: < 2.2e-16
+
+
+Final regression model after dropping variables with p-value > 0.10:
+
+Call:
+lm(formula = formula_final, data = movies)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-27945949 -10933772  -2621646   6792768  66725878 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        -3.004e+07  7.137e+06  -4.209 7.50e-05 ***
+Budget              2.586e-01  9.494e-02   2.723  0.00815 ** 
+MPAA_D             -1.114e+07  5.166e+06  -2.157  0.03445 *  
+`Opening Gross`     2.820e+00  1.910e-01  14.765  < 2e-16 ***
+`Critics´ Opinion`  5.908e+05  1.376e+05   4.293 5.56e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 17060000 on 70 degrees of freedom
+Multiple R-squared:  0.8303,	Adjusted R-squared:  0.8206 
+F-statistic: 85.65 on 4 and 70 DF,  p-value: < 2.2e-16
+
+
+Dropped variables (p-value > 0.10 in initial model):
+[1] "COMEDY_DUMMY"       "Sequel"             "`Known Story`"      "`Opening Theatres`"
+[5] "Summer"             "Holiday"            "Christmas"         
+
+Prediction for Total U.S. Gross of 'Flags of Our Fathers':
+       fit      lwr      upr
+1 57654365 21512643 93796087
+
+Effect of a +10 point increase in critics' score:
+Point estimate of extra Total U.S. Gross:  5907942 
+95% CI for this extra gross: [ 3163463 ,  8652421 ]

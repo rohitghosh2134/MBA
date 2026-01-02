@@ -1,0 +1,84 @@
+# **DATA SHEET**
+
+**Course:** Introduction to Public Policy
+**Institute:** Indian Institute of Management, Sirmaur
+**Project Title:** *Whose Responsibility? A Policy-Driven Analysis of Human–Animal Conflict*
+**Faculty:** Prof. Lakshmi Parvathy
+
+---
+
+## **1. Policy Problem Identified**
+
+The IIM Sirmaur campus is experiencing repeated dog bite incidents due to an uncontrolled stray dog population. Despite the presence of a “no pets on campus” rule, weak enforcement and conflicting stakeholder behaviour have resulted in safety risks, anxiety among campus residents, and unclear responsibility for medical costs. This represents a case of **policy paralysis**, where rules exist but fail to deliver public welfare. 
+
+---
+
+## **2. Nature of the Problem: A Wicked Policy Issue**
+
+* The problem is **complex and multi-dimensional**, involving public safety, animal welfare, ethics, and governance.
+* There is no single authority with clear ownership of the issue.
+* Solutions that favour one stakeholder group often generate resistance from another.
+* Outcomes are uncertain and politically sensitive.
+
+This qualifies the issue as a **“wicked policy problem”** rather than a simple administrative failure. 
+
+---
+
+## **3. Policy Context and Theoretical Framework**
+
+The analysis is grounded in key public policy concepts:
+
+* **Social Contract Theory:** The administration is responsible for managing collective spaces and ensuring safety.
+* **Commons Theory (Ostrom):** The campus functions as a shared resource where individual actions affect collective outcomes.
+* **Prisoner’s Dilemma:** Compassionate individual actions (feeding dogs) unintentionally increase collective risk.
+* **Market/Policy Failure:** The absence of institutional medical coverage shifts risk unfairly onto individuals. 
+
+---
+
+## **4. Existing Policy and Implementation Gap**
+
+* **Policy in place:** “No pets on campus” rule.
+* **Implementation failure:** Selective non-compliance and lack of enforcement.
+* **Governance gap:** Campus rules conflict with state-level animal welfare mandates, creating enforcement ambiguity.
+* **Outcome:** Increased bite incidents and unresolved liability concerns. 
+
+---
+
+## **5. Stakeholder Mapping**
+
+The conflict involves three major interest groups:
+
+1. **Campus Administration:** Focused on liability management and rule enforcement.
+2. **Safety-Focused Students & Staff:** Concerned about physical safety, fear, and medical costs.
+3. **Animal-Sympathy Students:** Prioritize ethical treatment, feeding, and oppose relocation.
+
+The absence of coordinated action among these groups perpetuates policy paralysis. 
+
+---
+
+## **6. Evidence and Data Sources**
+
+* District-level dog bite statistics from Himachal Pradesh indicating high incidence rates.
+* Formal written complaints from students and staff documenting bite incidents and fear.
+* State-level policy updates following Supreme Court directives on dog registration, vaccination, and local accountability.
+* Institutional guidelines on emergency medical access (DDU Hospital, Shimla). 
+
+---
+
+## **7. Policy Tools and Approach**
+
+* **Behavioural Policy Tools:** Nudges and human-centred design instead of strict mandates.
+* **Customer Journey Mapping:** Tracking the “incident-to-recovery” experience of bite victims.
+* **Agile Policy Design:** Using user-centred evidence to correct uninsured risk exposure.
+* **Collective Action Framework:** Aligning stakeholder incentives to protect the commons. 
+
+---
+
+## **8. Intended Policy Outcome**
+
+* Reduction in bite incidents.
+* Clear allocation of responsibility for prevention and treatment.
+* Balance between safety mandates and ethical animal treatment.
+* Shift from reactive response to proactive risk management.
+
+---

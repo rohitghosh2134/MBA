@@ -1,0 +1,35 @@
+QUESTION 3 – COMEDY VS NON-COMEDY
+
+Mean Total U.S. Gross (Comedy):  68743100 
+Mean Total U.S. Gross (Non-Comedy):  55585721 
+
+Two-sample t-test for Total U.S. Gross (Comedy vs Non-Comedy):
+
+	Welch Two Sample t-test
+
+data:  comedy_us_gross and noncomedy_us_gross
+t = 1.3728, df = 47.176, p-value = 0.1763
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -6122596 32437354
+sample estimates:
+mean of x mean of y 
+ 68743100  55585721 
+
+
+Mean ROI (Comedy):  0.5401722 
+Mean ROI (Non-Comedy):  0.1835754 
+
+Two-sample t-test for ROI (Comedy vs Non-Comedy):
+
+	Welch Two Sample t-test
+
+data:  comedy_roi and noncomedy_roi
+t = 2.0471, df = 38.965, p-value = 0.04743
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.004248791 0.708944798
+sample estimates:
+mean of x mean of y 
+0.5401722 0.1835754 
+

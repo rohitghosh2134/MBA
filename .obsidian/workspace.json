@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6c352b4dba65d4df",
+        "id": "30f84b1fef05c15b",
         "type": "tabs",
         "children": [
           {
-            "id": "b0e8dcc1621b79e7",
+            "id": "f12fec72220f08a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MBA/Courses/FRA/Assignments/End Term Annual Reports/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Courses/Term 2/MEE/Post Midsem/MBA_2025_Open Economy.pptx.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "MBA_2025_Open Economy.pptx"
             }
           }
         ]
@@ -41,7 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MBA/Courses/ITC/Assignments/ITC ASSIGNMENT 1.md",
+                "file": "Courses/Term 2/OM/Class 9.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ITC ASSIGNMENT 1"
+              "title": "Backlinks for Class 9"
             }
           },
           {
@@ -113,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/Term 2/OM/Class 9.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Class 9"
             }
           },
           {
@@ -141,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Courses/Term 2/OM/Class 9.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Class 9"
             }
           },
           {
@@ -155,8 +155,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -181,48 +181,55 @@
       "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "b0e8dcc1621b79e7",
+  "active": "f12fec72220f08a7",
   "lastOpenFiles": [
-    "MBA/Live Project/Finaltics/{E432C5F5-C569-4BFE-B066-E290CF6CE0E2}.png.~tmp",
-    "MBA/Live Project/Finaltics/{E432C5F5-C569-4BFE-B066-E290CF6CE0E2}.png",
-    "MBA/Live Project/Finaltics/~WRL0001.tmp",
-    "MBA/Live Project/Finaltics/~WRD0000.tmp",
-    "MBA/Live Project/Finaltics/~$vestment Banking Project 2.docx",
-    "MBA/Live Project/Finaltics/Investment Banking Project 2.docx",
-    "MBA/Live Project/Finaltics/New Microsoft Word Document.docx",
-    "MBA/Live Project/Finaltics/Investment Banking Project 2 Document.pdf",
-    "MBA/Live Project/Finaltics/Unconfirmed 746403.crdownload",
-    "MBA/Courses/FRA/Assignments/B9C89400",
-    "MBA/Courses/FRA/Assignments/66338400",
-    "MBA/Courses/FRA/Assignments/~$FRA Session 18 (solution) (1) (1).xlsx",
+    "Courses/Term 2/MEE/Post Midsem/Copy of Mundell_Fleming.pdf",
+    "Courses/Term 2/MEE/Post Midsem/Copy of ML Condition.pdf",
+    "Courses/Term 2/MEE/Post Midsem/MBA_2025_Open Economy.pptx.pdf",
+    "Courses/Term 2/MEE/Post Midsem/Unconfirmed 209668.crdownload",
+    "Courses/Term 2/MEE/Post Midsem/Unconfirmed 169393.crdownload",
+    "Courses/Term 2/MEE/Post Midsem/Unconfirmed 556313.crdownload",
+    "Courses/Term 2/MEE/Post Midsem",
+    "Courses/Term 2/MEE/New folder",
+    "Courses/Term 2/OM/PostMidesem/~$Quality Management.pptx",
+    "Courses/Term 2/OM/PreMidSem/Scheduling Class 1.pdf",
+    "Courses/Term 2/OM/PostMidesem/~$Resource Planning - L16.pptx",
+    "Courses/Term 2/IPP/WhatsApp Image 2025-12-17 at 11.59.54 PM (1).jpeg",
+    "Courses/Term 2/IPP/WhatsApp Image 2025-12-17 at 11.59.54 PM.jpeg",
+    "Courses/Term 2/IPP/dog3 (1).png",
+    "Courses/Term 2/IPP/dog3.png",
+    "Courses/Term 2/IPP/dog2 (1).png",
+    "Courses/Term 2/IPP/dog2.png",
+    "Courses/Term 2/IPP/dog1 (1).png",
+    "Courses/Term 2/IPP/dog1.png",
+    "Courses/Term 2/OM/PreMidSem/ABC Shipyard.md",
+    "Courses/Term 2/OM/PreMidSem/OM Finest Laundry Notes.md",
+    "Courses/Term 2/OM/PreMidSem/Process Map.png",
+    "Courses/Term 2/DWO/DWO Project Guidelines.md",
+    "IIM SIRMAUR LOGO.webp",
+    "Courses/Term 2/DWO/DWO Project Questions to be answered.md",
+    "Courses/Term 2/DWO/KPMG - DWO.md",
+    "Courses/Term 1/QAM/Lectures/QAM Session 4.md",
+    "Courses/Term 1/QAM/Lectures/QAM Session 1.md",
+    "Courses/Term 1/ITC/Lectures/ITC Session 1.md",
+    "Courses/Term 1/ITC/Assignments/ITC Assignment 1.md",
+    "Courses/Term 1/FRA/Assignments/End Term Annual Reports/What to say.md",
+    "Courses/Term 1/FRA/Assignments/End Term Annual Reports/Untitled.md",
+    "Courses/Term 1/FRA/Lectures/FRA Session 3.md",
+    "Courses/Term 1/FRA/Lectures/FRA Session 1.md",
+    "Courses/Term 1/FRA/Assignments/FRA Assignment 1.md",
+    "Courses/Term 1/FRA/Assignments/End Term Project.md",
+    "Courses/Term 1/CCTM/Lectures/Session 13.md",
+    "Courses/Term 1/CCTM/Lectures/CCTM Session 5.md",
+    "Courses/Term 2/MA/Solution of CVP.md",
+    "Courses/MA/Solution of CVP.md",
     "MBA/Courses/FRA/Assignments/End Term Annual Reports/Untitled.md",
     "MBA/Courses/FRA/Assignments/End Term Annual Reports/What to say.md",
     "MBA/Courses/CCTM/Lectures/Session 13.md",
-    "MBA/Courses/FRA/Lectures/WhatsApp Image 2025-07-14 at 18.18.30_4e817f5e.jpg",
-    "MBA/Courses/FRA/Lectures/WhatsApp Image 2025-07-14 at 18.18.49_3541756f.jpg",
-    "MBA/Courses/FRA/Lectures/WhatsApp Image 2025-07-14 at 18.18.41_fdb99f36.jpg",
     "MBA/Courses/FRA/Assignments/End Term Project.md",
-    "MBA/Courses/CCTM/Assignments/End Term Project/SolNova Family.png",
-    "MBA/Courses/CCTM/Assignments/End Term Project/Smart App.png",
     "MBA/Live Project/Finaltics/Profile and Start Up.md",
     "MBA/Courses/CCTM/Lectures/CCTM Session 5.md",
-    "Formula to QUIZ.md",
-    "MBA/Courses/QAM/Lectures/QAM Session 4.md",
-    "MBA/Courses/FRA/Lectures/FRA Session 3.md",
-    "Thumbs-Up Video.md",
-    "MBA/Courses/FRA/Assignments/FRA Assignment 1.md",
-    "MBA/Templates/Assignment Template.md",
-    "MBA/Templates/Course Lecture Template.md",
-    "MBA/Courses/QAM/Lectures/QAM Session 1.md",
-    "MBA/Courses/FRA/Lectures/FRA Session 1.md",
-    "MBA/Courses/ITC/Assignments/ITC Assignment 1.md",
-    "MBA/Courses/ITC/Lectures/ITC Session 1.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "MBA/ITC Session 1.md",
-    "2025-07-07.md",
-    "Untitled 1.md",
-    "Courses/ITC/Lectures/ITC Lecture 1.md",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }

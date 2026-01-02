@@ -1,0 +1,55 @@
+QUESTION 5 – PRE-PRODUCTION REGRESSION AND VARIABLE SELECTION
+
+Initial regression model:
+
+Call:
+lm(formula = formula_initial, data = movies)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-74206035 -19352591  -4197528  10124286 102024488 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    1.223e+07  1.052e+07   1.162   0.2492    
+Budget         8.967e-01  1.653e-01   5.424 8.12e-07 ***
+COMEDY_DUMMY   1.476e+07  8.920e+06   1.655   0.1026    
+MPAA_D        -4.156e+06  1.031e+07  -0.403   0.6881    
+Sequel         2.917e+07  1.277e+07   2.283   0.0255 *  
+`Known Story` -9.978e+06  8.245e+06  -1.210   0.2304    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 33490000 on 69 degrees of freedom
+Multiple R-squared:  0.3552,	Adjusted R-squared:  0.3085 
+F-statistic: 7.601 on 5 and 69 DF,  p-value: 9.78e-06
+
+
+Final regression model after dropping variables with p-value > 0.10:
+
+Call:
+lm(formula = formula_final, data = movies)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-73227072 -20666561  -4888979  13323011 102210359 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 1.345e+07  9.348e+06   1.438   0.1547    
+Budget      8.711e-01  1.680e-01   5.184 1.91e-06 ***
+Sequel      3.050e+07  1.279e+07   2.384   0.0198 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 34120000 on 72 degrees of freedom
+Multiple R-squared:  0.3016,	Adjusted R-squared:  0.2822 
+F-statistic: 15.55 on 2 and 72 DF,  p-value: 2.442e-06
+
+
+Dropped variables (p-value > 0.10 in initial model):
+[1] "COMEDY_DUMMY"  "MPAA_D"        "`Known Story`"
+
+Sequel effect in the final model:
+    Estimate   Std. Error      t value     Pr(>|t|) 
+3.049671e+07 1.279146e+07 2.384146e+00 1.975618e-02 

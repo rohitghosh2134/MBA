@@ -1,0 +1,41 @@
+QUESTION 9 – INTERACTION: CRITICS' OPINION × COMEDY
+
+Regression with interaction term (Critics´ Opinion × COMEDY_DUMMY):
+
+Call:
+lm(formula = `Total U.S. Gross` ~ Budget + MPAA_D + `Opening Gross` + 
+    `Critics´ Opinion` * COMEDY_DUMMY, data = movies)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-26105594 -10611342  -2136477   7567360  68111568 
+
+Coefficients:
+                                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     -3.630e+07  8.472e+06  -4.284 5.90e-05 ***
+Budget                           2.589e-01  9.511e-02   2.722  0.00824 ** 
+MPAA_D                          -9.792e+06  5.408e+06  -1.811  0.07462 .  
+`Opening Gross`                  2.778e+00  1.938e-01  14.338  < 2e-16 ***
+`Critics´ Opinion`               6.840e+05  1.615e+05   4.236 6.99e-05 ***
+COMEDY_DUMMY                     1.667e+07  1.441e+07   1.157  0.25139    
+`Critics´ Opinion`:COMEDY_DUMMY -2.282e+05  2.956e+05  -0.772  0.44280    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 17020000 on 68 degrees of freedom
+Multiple R-squared:  0.836,	Adjusted R-squared:  0.8215 
+F-statistic: 57.76 on 6 and 68 DF,  p-value: < 2.2e-16
+
+
+Interaction effect row (Critics´ Opinion × COMEDY_DUMMY):
+     Estimate    Std. Error       t value      Pr(>|t|) 
+-2.281793e+05  2.955771e+05 -7.719789e-01  4.428016e-01 
+
+Interaction coefficient:  -228179.3 
+p-value:  0.4428016 
+
+DECISION & INTERPRETATION (significance level = 10%):
+- Either p-value ≥ 0.10 OR coefficient is not negative.
+- Conclusion: We cannot statistically prove that critics' influence
+  on total U.S. gross is weaker for comedies than for non-comedies.
+  Griffith’s theory is not supported by this regression.

@@ -1,0 +1,14 @@
+QUESTION 2 – ROI, CI AND ONE-SAMPLE T-TEST
+
+First few ROI values:
+[1] -0.18010798  0.57928283  0.27166588 -0.82403764  0.05852815  0.71514185
+
+Mean ROI:  0.2929317 
+95% CI for mean ROI: [ 0.1348149 ,  0.4510486 ]
+
+Hypothesis test (significance level = 5%):
+Null Hypothesis: mean ROI = 0.12
+Alternative Hypothesis: mean ROI > 0.12
+
+t-statistic:  2.179237 
+p-value (one-sided):  0.01624863 

@@ -1,0 +1,6 @@
+CAD % of GDP :- https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS?locations=IN
+
+Exchange Rate :- https://data.rbi.org.in/DBIE/#/dbie/indicators
+
+Foreign Investment Inflows :- https://data.rbi.org.in/#/dbie/reports/Statistics/External%20Sector/International%20Finance
+

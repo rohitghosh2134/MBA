@@ -1,0 +1,72 @@
+QUESTION 6 – REGRESSION MODEL FOR OPENING GROSS
+Including BOTH preproduction factors and opening-weekend factors
+
+INITIAL REGRESSION MODEL:
+
+Call:
+lm(formula = formula_initial, data = movies)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-16199353  -5387327  -1135383   3684677  27451341 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        -7.744e+06  4.459e+06  -1.736  0.08723 .  
+Budget              1.353e-01  4.318e-02   3.133  0.00260 ** 
+COMEDY_DUMMY        1.134e+06  2.290e+06   0.495  0.62212    
+MPAA_D              6.185e+05  2.604e+06   0.238  0.81299    
+Sequel              9.298e+06  3.288e+06   2.828  0.00623 ** 
+`Known Story`      -2.606e+06  2.043e+06  -1.276  0.20667    
+`Opening Theatres`  7.116e+03  1.559e+03   4.563 2.29e-05 ***
+Summer             -4.126e+06  2.240e+06  -1.842  0.07002 .  
+Holiday             1.472e+05  3.555e+06   0.041  0.96710    
+Christmas          -3.850e+06  3.494e+06  -1.102  0.27457    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 8157000 on 65 degrees of freedom
+Multiple R-squared:  0.5241,	Adjusted R-squared:  0.4582 
+F-statistic: 7.954 on 9 and 65 DF,  p-value: 8.058e-08
+
+
+FINAL REGRESSION MODEL (after dropping variables with p-value > 0.10):
+
+Call:
+lm(formula = formula_final, data = movies)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-16513449  -4504585  -1519904   3204321  28232891 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        -9.805e+06  4.029e+06  -2.433  0.01751 *  
+Budget              1.211e-01  4.154e-02   2.916  0.00476 ** 
+Sequel              9.368e+06  3.182e+06   2.944  0.00439 ** 
+`Opening Theatres`  7.706e+03  1.445e+03   5.332 1.13e-06 ***
+Summer             -3.298e+06  2.040e+06  -1.617  0.11032    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 8079000 on 70 degrees of freedom
+Multiple R-squared:  0.4973,	Adjusted R-squared:  0.4686 
+F-statistic: 17.31 on 4 and 70 DF,  p-value: 6.467e-10
+
+
+Variables dropped at 10% significance level (p-value > 0.10):
+[1] "COMEDY_DUMMY"  "MPAA_D"        "`Known Story`" "Holiday"       "Christmas"    
+
+INTERPRETATION OF SLOPE COEFFICIENTS (Final Model):
+
+Budget: Holding other variables constant, a one-dollar increase in production budget is associated with an expected change in opening gross of  0.1211242 
+Sequel (1 = Sequel vs 0 = Not a sequel): Holding other variables constant, sequels are expected to differ in opening gross by  9368435 
+`Opening Theatres`: Holding other variables constant, each additional theatre in the opening weekend is associated with an expected change in opening gross of  7706.124 
+Summer (1 = Released in summer vs 0 = Not summer): Holding other variables constant, summer releases are expected to differ in opening gross by  -3298463 
+
+(Note: Signs of the coefficients indicate direction: positive = higher opening gross, negative = lower opening gross, all else equal.)
+
+EFFECT OF INCREASING OPENING THEATRES BY 100:
+
+Point estimate of change in Opening Gross for +100 theatres:  770612.4 
+95% confidence interval for this change: [ 482371.1 ,  1058854 ]

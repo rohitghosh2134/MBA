@@ -1,0 +1,22 @@
+QUESTION 1 RESULTS
+ ----------------------------------------
+ Minimum Opening Gross:  4120497 
+ Average Opening Gross:  17468465.5733333 
+ Maximum Opening Gross:  68033544 
+
+ Minimum Total U.S. Gross:  13090630 
+ Average Total U.S. Gross:  59620650.8266667 
+ Maximum Total U.S. Gross:  198000317 
+
+ Minimum Total Non-U.S. Gross:  0 
+ Average Total Non-U.S. Gross:  59560982.56 
+ Maximum Total Non-U.S. Gross:  456235122 
+
+ Minimum Opening Theatres:  852 
+ Average Opening Theatres:  2766.28 
+ Maximum Opening Theatres:  3964 
+
+ Number of Comedy Movies:  23 
+ Number of R-Rated Movies:  15 
+ ----------------------------------------
+

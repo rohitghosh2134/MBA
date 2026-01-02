@@ -1,0 +1,71 @@
+STATEMENT OF PROFIT AND LOSS
+as at 31st March 2022 ( in crores) for the year ended 31st March 2022 ( in crores)
+Particulars Note No. As at 31st March 2022 As at 31st March 2021 Particulars Note No. For the year ended For the year ended
+ASSETS 31st March 2022 31st March 2021
+1 Non-Current Assets
+(a) Property, Plant and Equipment 4 1,290.01 1,023.38 INCOME
+(b) Right of Use Assets 5 166.52 118.67
+Revenue from Operations 30 8,340.17 6,216.33
+(c) Capital Work-In-Progress 4 207.34 281.50
+(d) Goodwill 6 86.34 86.34 Other Income 31 230.37 73.49
+(e) Other Intangible Assets 6 189.43 194.17
+(f) Financial Assets Total Income 8,570.54 6,289.82
+(i) Investments 7 3,298.70 3,312.26
+EXPENSES
+(ii) Loans 10 5.02 4.82
+(iii) Other Financial Assets 12 18.74 15.15 Cost of Materials Consumed 32 4,174.20 2,469.53
+(g) Income Tax Assets (net) 16 125.18 86.98
+(h) Other Non-Current Assets 17 41.65 79.37 Purchases of Stock-in-Trade 637.16 453.99
+Total Non-Current Assets 5,428.93 5,202.64
+Changes in inventories of Finished Goods, 33 (214.02) (89.77)
+2 Current Assets
+Work-in-Progress and Stock-in-Trade
+(a) Inventories 15 1,372.70 975.94
+(b) Financial Assets Employee Benefits Expense 34 905.19 787.75
+(i) Investments 8 147.31 169.35
+Finance Costs 35 26.42 16.99
+(ii) Trade Receivables 9 1,157.61 999.09
+(iii) Cash and Cash Equivalents 14A 116.49 109.81 Depreciation, Amortisation and Impairment Expense 36 175.12 147.10
+(iv) Bank balances other than (iii) above 14B 2.82 2.56
+(v) Loans 11 17.66 16.25 Other Expenses 37 1,238.98 1,047.15
+(vi) Other Financial Assets 13 10.17 7.34
+Total Expenses 6,943.05 4,832.74
+(c) Other Current Assets 18 170.22 140.43
+Total Current Assets 2,994.98 2,420.77 Profit before Exceptional Items and Tax 1,627.49 1,457.08
+TOTAL ASSETS 8,423.91 7,623.41
+EQUITY AND LIABILITIES Exceptional Items 38 - 0.45
+EQUITY
+Profit before Tax 1,627.49 1,456.63
+(a) Equity Share Capital 19 50.83 50.82
+(b) Other Equity 20 6,366.12 5,510.40 Tax Expense
+Total Equity 6,416.95 5,561.22
+LIABILITIES Current Tax 48 360.95 375.05
+1 Non-Current Liabilities
+Deferred Tax 48 (2.08) 0.12
+(a) Financial Liabilities
+(i) Lease Liabilities 63.72 48.79 Net Tax Expense 358.87 375.17
+(ii) Other Financial Liabilities 23 19.94 13.63
+(b) Provisions 25 54.69 45.02 Profit for the year 1,268.62 1,081.46
+(c) Deferred Tax Liabilities (net) 27 70.73 75.86
+Other Comprehensive Income
+Total Non-Current Liabilities 209.08 183.30
+2 Current Liabilities Items that will not be reclassified to profit or loss
+(a) Financial Liabilities
+(i) Borrowings 21 105.00 55.00 Remeasurement of Defined Benefit Plan 45 (12.12) (0.95)
+(ii) Trade Payables 22
+Income tax relating to items that will not be 48 3.05 0.24
+- Total Outstanding Dues of Micro Enterprises and 58.88 67.04
+reclassified to profit or loss
+Small Enterprises
+- Total Outstanding Dues of Creditors other than 791.88 726.78 Total Other Comprehensive Loss (9.07) (0.71)
+Micro Enterprises and Small Enterprises
+(iii) Lease Liabilities 25.55 18.54 Total Comprehensive Income for the year 1,259.55 1,080.75
+(iv) Other Financial Liabilities 24 694.44 900.44
+(b) Other Current Liabilities 28 80.32 72.66 Earnings Per Equity Share: 43
+(c) Provisions 26 33.89 16.48
+Basic ( ) 24.96 21.28
+(d) Current Tax Liabilities (net) 29 7.92 21.95
+Total Current Liabilities 1,797.88 1,878.89 Diluted ( ) 24.95 21.27
+TOTAL LIABILITIES 2,006.96 2,062.19
+TOTAL EQUITY AND LIABILITIES 8,423.91 7,623.41 See accompanying notes to the financial statements 1 to 57
+See accompanying notes to the financial statements 1 to 57
