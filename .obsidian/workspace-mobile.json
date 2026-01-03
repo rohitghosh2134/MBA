@@ -11,14 +11,12 @@
             "id": "be93926c1aacf608",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Term 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Courses/Term 3/SAF/Case Studies/Aldi.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Term 3"
+              "icon": "lucide-file-text",
+              "title": "Aldi"
             }
           }
         ]
