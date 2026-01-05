@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "863f721e829b513e",
+        "id": "6515e8a38be6e5f2",
         "type": "tabs",
         "children": [
           {
-            "id": "be93926c1aacf608",
+            "id": "010d04d8ef5f1dad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Term 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Term 3"
+              "title": "New tab"
             }
           }
         ]
@@ -153,8 +149,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be93926c1aacf608",
+  "active": "010d04d8ef5f1dad",
   "lastOpenFiles": [
+    "Courses/Term 3/SAF/Case Studies/Aldi.pdf",
     "Term 3.md",
     "Courses/Term 3"
   ]
