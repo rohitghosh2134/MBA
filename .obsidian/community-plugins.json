@@ -2,5 +2,6 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-excel-to-markdown-table",
-  "markdown-table-editor"
+  "markdown-table-editor",
+  "pdf-writer"
 ]
