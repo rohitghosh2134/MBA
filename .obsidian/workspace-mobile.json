@@ -11,10 +11,12 @@
             "id": "010d04d8ef5f1dad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Courses/Term 3/FM/Case Studies/Blaine Kitchenware.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Blaine Kitchenware"
             }
           }
         ]
