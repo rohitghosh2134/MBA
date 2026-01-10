@@ -11,10 +11,12 @@
             "id": "f51c44330d6f48e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Courses/Term 3/HRM/Case Studies/The Ordinary Heros of Taj.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Ordinary Heros of Taj"
             }
           }
         ]
@@ -179,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a68826452d89245",
+  "active": "f51c44330d6f48e7",
   "lastOpenFiles": [
     "Courses/Term 3/QAM-III/Case Studies/A7264000",
     "Courses/Term 3/QAM-III/Case Studies/DDC54000",
