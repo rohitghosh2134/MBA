@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecbcfc07a18b5d73",
+            "id": "e9a8772566604149",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Courses/Term 3/HRM/ASSIGNMENT/One Pager Reflection MBA25084.pdf"
+                "file": "Courses/Term 3/SCM/Case Studies/DELL.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "One Pager Reflection MBA25084"
+              "title": "DELL"
             }
           }
         ]
@@ -162,19 +162,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecbcfc07a18b5d73",
+  "active": "e9a8772566604149",
   "lastOpenFiles": [
+    "Courses/Term 3/SAF/Case Studies/The Indigo Story.pdf",
+    "Courses/Term 3/SCM/Case Studies/DELL.pdf",
+    "Courses/Term 3/SCM/Case Studies/DHL Supply Chain.pdf",
+    "Courses/Term 3/HRM/ASSIGNMENT/One Pager Reflection MBA25084.pdf",
+    "Courses/Term 3/SAF/Case Studies/Strategy and The Strategist.pdf",
     "Courses/Term 3/HRM/ASSIGNMENT/Key Takeaways Session 2 HRM Mba25084.pdf",
     "Courses/Term 3/HRM/ASSIGNMENT/KEY TAKEAWAYS.pdf",
     "Courses/Term 3/FM/Case Studies/Blaine Kitchenware.pdf",
     "Courses/Term 3/IEP/IEP Notes.pdf",
     "Courses/Term 3/QAM-III/NOTES/QAM-III NOTES.pdf",
     "Courses/Term 3/QAM-III/Case Studies",
-    "Courses/Term 3/IEP/ASSIGNMENT",
-    "Courses/Term 3/IEP",
-    "Courses/Term 3/QAM-III/NOTES 1",
-    "Courses/Term 3/QAM-III/NOTES",
-    "Courses/Term 3/QAM-III/~$601 DATA Caps - Price Qty Cost profit.xlsx",
     "Term 3.md"
   ]
 }
