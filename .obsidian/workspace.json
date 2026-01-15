@@ -11,10 +11,12 @@
             "id": "f51c44330d6f48e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Courses/Term 3/HRM/Case Studies/The Ordinary Heros of Taj.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Ordinary Heros of Taj"
             }
           },
           {
@@ -192,8 +194,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26f89ef925ceba9f",
+  "active": "1a68826452d89245",
   "lastOpenFiles": [
+    "Courses/Term 3/SCM/Case Studies/DELL.pdf",
     "Courses/Term 3/QAM-III/Case Studies/08890000",
     "Courses/Term 3/QAM-III/Case Studies/43890000",
     "Courses/Term 3/QAM-III/Case Studies/24790000",
@@ -204,7 +207,6 @@
     "Courses/Term 3/QAM-III/Case Studies/01FC5300",
     "Courses/Term 3/QAM-III/Case Studies/36D75300",
     "Courses/Term 3/QAM-III/Case Studies/~$801 - DATA - S&P500 INDEX.xlsx",
-    "Courses/Term 3/QAM-III/Case Studies/A2025300",
     "Courses/Term 2/IPP/WhatsApp Image 2025-12-17 at 11.59.54 PM (1).jpeg",
     "Courses/Term 2/IPP/WhatsApp Image 2025-12-17 at 11.59.54 PM.jpeg",
     "Courses/Term 2/IPP/dog3 (1).png",
