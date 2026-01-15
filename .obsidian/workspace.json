@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "The Ordinary Heros of Taj"
             }
+          },
+          {
+            "id": "26f89ef925ceba9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,19 +194,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f51c44330d6f48e7",
+  "active": "26f89ef925ceba9f",
   "lastOpenFiles": [
-    "Courses/Term 3/QAM-III/Case Studies/A7264000",
-    "Courses/Term 3/QAM-III/Case Studies/DDC54000",
-    "Courses/Term 3/QAM-III/Case Studies/C5754000",
-    "Courses/Term 3/QAM-III/Case Studies/2FD83000",
-    "Courses/Term 3/QAM-III/Case Studies/21A83000",
-    "Courses/Term 3/QAM-III/Case Studies/01783000",
-    "Courses/Term 3/QAM-III/Case Studies/0F183000",
-    "Courses/Term 3/QAM-III/Case Studies/52363000",
-    "Courses/Term 3/QAM-III/Case Studies/B1C33000",
-    "Courses/Term 3/QAM-III/Case Studies/68B23000",
-    "Courses/Term 3/QAM-III/Case Studies/22E13000",
+    "Courses/Term 3/QAM-III/Case Studies/08890000",
+    "Courses/Term 3/QAM-III/Case Studies/43890000",
+    "Courses/Term 3/QAM-III/Case Studies/24790000",
+    "Courses/Term 3/QAM-III/Case Studies/D5490000",
+    "Courses/Term 3/QAM-III/Case Studies/~$15.01.2026 QAM CASE FILES.xlsx",
+    "Courses/Term 3/QAM-III/Case Studies/~$~$2401 DATA - GP Jan 12 2026.xlsx",
+    "Courses/Term 3/QAM-III/Case Studies/8FFEB500",
+    "Courses/Term 3/QAM-III/Case Studies/01FC5300",
+    "Courses/Term 3/QAM-III/Case Studies/36D75300",
+    "Courses/Term 3/QAM-III/Case Studies/~$801 - DATA - S&P500 INDEX.xlsx",
+    "Courses/Term 3/QAM-III/Case Studies/A2025300",
     "Courses/Term 2/IPP/WhatsApp Image 2025-12-17 at 11.59.54 PM (1).jpeg",
     "Courses/Term 2/IPP/WhatsApp Image 2025-12-17 at 11.59.54 PM.jpeg",
     "Courses/Term 2/IPP/dog3 (1).png",
