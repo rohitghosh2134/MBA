@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf1f019f37efe2d8",
+        "id": "311c000b10da6653",
         "type": "tabs",
         "children": [
           {
-            "id": "f51c44330d6f48e7",
+            "id": "a16eaf714e4477f0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Courses/Term 3/HRM/Case Studies/The Ordinary Heros of Taj.pdf"
+                "file": "Courses/Term 3/MIS/Case Studies/Sucessfully Navigating the Skies of a Large-Scale ERP.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "The Ordinary Heros of Taj"
-            }
-          },
-          {
-            "id": "26f89ef925ceba9f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Sucessfully Navigating the Skies of a Large-Scale ERP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 513.5
   },
   "right": {
     "id": "a6e7ab6dbd1bf111",
@@ -194,19 +181,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a68826452d89245",
+  "active": "a16eaf714e4477f0",
   "lastOpenFiles": [
-    "Courses/Term 3/QAM-III/Case Studies/C1623600",
-    "Courses/Term 3/QAM-III/Case Studies/~$1420-1 DA.. DATA Water 22000.. drill at 20 or 25mtrs - 2026.xlsx",
-    "Courses/Term 3/QAM-III/Case Studies/B4182400",
-    "Courses/Term 3/QAM-III/Case Studies/FF972400",
-    "Courses/Term 3/QAM-III/Case Studies/12772400",
-    "Courses/Term 3/QAM-III/Case Studies/D8672400",
-    "Courses/Term 3/QAM-III/Case Studies/32962400",
-    "Courses/Term 3/QAM-III/Case Studies/BF452400",
-    "Courses/Term 3/QAM-III/Case Studies/CE722400",
-    "Courses/Term 3/QAM-III/Case Studies/2C522400",
-    "Courses/Term 3/QAM-III/Case Studies/BE802400",
+    "Courses/Term 3/MIS/Case Studies/Enterprise Resource Planning.pdf",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/99F99700",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/4FC89700",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/7FE29700",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/9E288700",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/E9368700",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/0F758700",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/2D628700",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/65618700",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/~$Stud.copy.Solver.Data.Demand planning and Capacity allocation Solution 2.xlsx",
+    "Courses/Term 3/SCM/Case Studies/Excel Sheets/Stud.copy.Solver.Data.Demand planning and Capacity allocation Solution 2.xlsx",
     "Courses/Term 2/IPP/WhatsApp Image 2025-12-17 at 11.59.54 PM (1).jpeg",
     "Courses/Term 2/IPP/WhatsApp Image 2025-12-17 at 11.59.54 PM.jpeg",
     "Courses/Term 2/IPP/dog3 (1).png",
